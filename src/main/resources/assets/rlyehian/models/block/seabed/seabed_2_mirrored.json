@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_mirrored_all",
+  "textures": {
+    "all": "rlyehian:block/seabed/seabed_2"
+  }
+}

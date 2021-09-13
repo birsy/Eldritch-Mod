@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "rlyehian:block/seabed/polished_seabed",
+    "side": "rlyehian:block/seabed/polished_seabed_slab"
+  }
+}

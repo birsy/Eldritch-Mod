@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+      { "model": "rlyehian:block/seabed/seabed"},
+      { "model": "rlyehian:block/seabed/seabed_2"}
+    ]
+  }
+}

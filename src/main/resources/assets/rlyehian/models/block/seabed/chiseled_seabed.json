@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "rlyehian:block/seabed/chiseled_seabed_top",
+    "bottom": "rlyehian:block/seabed/chiseled_seabed_bottom",
+    "side": "rlyehian:block/seabed/chiseled_seabed_side"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "rlyehian:block/seabed/chiseled_seabed_top",
+    "top": "rlyehian:block/seabed/chiseled_seabed_top",
+    "side": "rlyehian:block/seabed/chiseled_seabed_top"
+  }
+}

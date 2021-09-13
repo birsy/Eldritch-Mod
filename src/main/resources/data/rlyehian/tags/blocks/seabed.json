@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "rlyehian:seabed",
+    "rlyehian:seabed_slab",
+    "rlyehian:seabed_stairs",
+    "rlyehian:seabed_wall"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "rlyehian:block/seabed/seabed_slab"
+    },
+    "type=double": {
+      "model": "rlyehian:block/seabed/seabed"
+    },
+    "type=top": {
+      "model": "rlyehian:block/seabed/seabed_slab_top"
+    }
+  }
+}

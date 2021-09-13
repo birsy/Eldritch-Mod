@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "rlyehian:block/seabed/chiseled_seabed",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "rlyehian:block/seabed/chiseled_seabed",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "rlyehian:block/seabed/chiseled_seabed",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "rlyehian:block/seabed/chiseled_seabed",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "rlyehian:block/seabed/chiseled_seabed"
+    },
+    "facing=west": {
+      "model": "rlyehian:block/seabed/chiseled_seabed",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

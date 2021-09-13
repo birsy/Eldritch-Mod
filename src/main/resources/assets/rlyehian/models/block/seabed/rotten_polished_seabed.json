@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "rlyehian:block/seabed/rotten_polished_seabed"
+  }
+}
